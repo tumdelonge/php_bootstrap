@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: rgb(10, 45, 65);
+}
+
+#project {
+  background-color: #0a2d41;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+footer {
+  padding-bottom: 1rem;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
